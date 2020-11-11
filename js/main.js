@@ -100,7 +100,10 @@ switch (a) {
     alert( "Нет таких значений" );
 }
 */
+/*
 var z = 123;
 console.log(z);
 var z = num.toString();
 console.log(z);
+*/
+document.write ("sdfsdf");
