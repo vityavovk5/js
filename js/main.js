@@ -83,7 +83,7 @@ if (x < 5) {
 else {
     console.log(`x >= 10`);
 }
-*/
+ 
 let a = 2 + 2;
 
 switch (a) {
@@ -99,3 +99,8 @@ switch (a) {
   default:
     alert( "Нет таких значений" );
 }
+*/
+var z = 123;
+console.log(z);
+var z = num.toString();
+console.log(z);
